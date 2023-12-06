@@ -13,3 +13,4 @@ Required python packages (these should be included with Python 2):
 
 
 This code was historically stored in burns at the location: ..\1-Software\AO_Tools\2-AOProcessing\3-CreateBatch\ARFS2Batch_1.3.3
+quad_compatible branch was historically stored at location: ..\1-Software\AO_Tools\2-AOProcessing\3-CreateBatch\ARFS2Batch_1.3.4
