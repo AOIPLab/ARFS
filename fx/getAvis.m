@@ -11,6 +11,17 @@ possibleModalities = {
     'reflect';
     'visible';
     'ICG';
+    %Added quad detection modalities - JG 07/26/2023
+    'NE_quad';
+    'NIRCON';
+    'NW_quad';
+    'SE_quad';
+    'SW_quad';
+    'VISCON';
+    'split_diag135';
+    'split_diag45';
+    'split_horz';
+    'split_vert';
     };    
 
 nDmbs = numel(dmb);
