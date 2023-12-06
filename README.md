@@ -12,4 +12,4 @@ Required python packages (these should be included with Python 2):
 - cPickle
 
 
-This code was historically stored in burns at the location: \\burns.rcc.mcw.edu\AOIP\1-Software\AO_Tools\2-AOProcessing\3-CreateBatch\ARFS2Batch_1.3.3
+This code was historically stored in burns at the location: ..\1-Software\AO_Tools\2-AOProcessing\3-CreateBatch\ARFS2Batch_1.3.3
